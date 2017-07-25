@@ -2,7 +2,7 @@
 #include<stdio.h>
 void main()
 {
-int n,num,digit, reversed=0;
+int n,num,digit, reverse=0;
 clrscr();
 printf("\n enter the number:");
 scanf("%d",&num);
