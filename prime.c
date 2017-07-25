@@ -1,11 +1,11 @@
 #include<iostream.h.
 #include<stdio.h>
-void main9)
+void main()
 {
 int int n,i,a=0;
 clrscr();
 printf("\n entr the number:");
-scanf("%d",n);
+scanf("%d",&n);
 for(i=1;i<=n;i++)
 {
 if(n%i==0)
