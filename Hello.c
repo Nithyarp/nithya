@@ -4,7 +4,7 @@ void main()
 {
 int i;
 clrscr();
-for(i=0;i<=4;i++)
+for(i=0;i<=1;i++)
 {
 printf("\n HELLO");
 }
